@@ -812,3 +812,4 @@ C:\Users\k_nig\OneDrive\Área de Trabalho\Projetos de Programação\Curso Fullst
 C:\Users\k_nig\OneDrive\Área de Trabalho\Projetos de Programação\Curso Fullstack 2023\Projeto Testes em Estrutura da API\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.csproj.CopyComplete
 C:\Users\k_nig\OneDrive\Área de Trabalho\Projetos de Programação\Curso Fullstack 2023\Projeto Testes em Estrutura da API\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\k_nig\OneDrive\Área de Trabalho\Projetos de Programação\Curso Fullstack 2023\Projeto Testes em Estrutura da API\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\Users\k_nig\OneDrive\Área de Trabalho\Projetos de Programação\Curso Fullstack 2023\Projeto Testes em Estrutura da API\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
